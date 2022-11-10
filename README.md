@@ -10,11 +10,13 @@
 
 ## 备份列表
 
-北大野史主页：https://archive.ph/abojM
+北大野史主页：https://archive.ph/PYjhj
 
 ### 事件
 
-Category:事件: https://archive.ph/zabWY
+Category:事件: https://archive.ph/NAgbz
+
+一男生因在树洞发“看看你的🤤”等言论被举报性骚扰，处理结果为留案底，手写4页实名道歉信和取消当年评奖评优: https://archive.ph/a8gzx
 
 法学院教授刘凯湘被指诱奸女学生、嫖娼、聚众淫乱等: https://archive.ph/HtKjf
 
@@ -36,9 +38,15 @@ James Zu假冒北大学生润芝大事件: https://archive.ph/lSypd
 
 PKU Helper数据泄露事件: https://archive.ph/q7EFB
 
+全面推广重点学生学业会商制度： https://archive.ph/OR7kq
+
 未名BBS服务器被盗事件: https://archive.ph/v2eEI
 
+非典封校事件: https://archive.ph/nToP1
+
 天光照相馆强拆事件: https://archive.ph/gFg5z
+
+43楼下做爱: https://archive.ph/QEIhs
 
 万柳罢餐: https://archive.ph/vJvAm
 
@@ -53,6 +61,8 @@ Category:人物: https://archive.ph/WeLG7
 王艳超: https://archive.ph/ElLha
 
 王昱博: https://archive.ph/P7Ls9
+
+隋雪纯: https://archive.ph/WUGlC
 
 ### 网络
 
@@ -95,5 +105,7 @@ Category:作品: https://archive.ph/EvYN4
 《北大2015年后勤工人调研报告》: https://archive.ph/Ku00N
 
 《网络舆情专报》第1408期: https://archive.ph/VYh8q
+
+7月9日“伪校友”事件扫盲贴: https://archive.ph/8nXtf
 
 ### 其他
